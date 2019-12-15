@@ -21,3 +21,5 @@ x2 = np.cos(values)
 figure =plt.figure()
 plt.plot(values,x1,values,x2)
 #plt.show()
+
+#add some new code
